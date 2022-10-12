@@ -1,0 +1,8 @@
+node_modules
+**/build
+yarn-error.log
+**/.DS_Store
+**/build.rar
+**/build.zip
+.DS_Store
+.env
